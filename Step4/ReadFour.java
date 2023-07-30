@@ -1,5 +1,5 @@
-package src.main.java.Step4;
-
+package Step4;
+//
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.io.File;
